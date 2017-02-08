@@ -1,0 +1,16 @@
+h1 {
+  color: grey;
+}
+h3 {
+  color: grey;
+}
+input {
+  width: 15rem;
+  height: 3rem;
+  font-size: 21px;
+  margin:6px;
+
+}
+.active {
+  font-weight: 700;
+}
